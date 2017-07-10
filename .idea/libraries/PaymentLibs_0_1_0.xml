@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PaymentLibs-0.1.0">
+    <CLASSES>
+      <root url="jar://D:/AndroidSDK/platform-tools/.android/build-cache/44a90f2b4b267f9e30cc5e50a69c42e1eb21e552/output/jars/classes.jar!/" />
+      <root url="file://D:/AndroidSDK/platform-tools/.android/build-cache/44a90f2b4b267f9e30cc5e50a69c42e1eb21e552/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
